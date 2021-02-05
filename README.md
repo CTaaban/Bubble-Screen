@@ -21,10 +21,4 @@ Since the velocity is expected to be one of the main components which determines
 
 <img src="Images/lock000_C1_SF.gif" width="400">
 
-<img src="Images/lock000_C65_SF_t6.gif" width="400">
-<img src="Images/lock000_C65_SF_t9.gif" width="400">
-
-<img src="Images/lock000_C1_SF_t6.gif" width="400">
-<img src="Images/lock000_C1_SF_t9.gif" width="400">
-
 This indicates that the propagation of the salt front is almost constant over the time with some significant deceleration only for situations with high friction. So therefore the position of the bubble screen still might be optimized w.r.t. to the propagation speed of the front since already small differences can lead to a more effective blockage of the salt intrusion. Of course other dependencies (e.g. trade-off between propagation distance, turbulent mixing, etc) will also influence the effectiveness of the bubble screen. So therefore it can not be guaranteed that the a location of the bubble screen other than just behind the lock is more effective.
