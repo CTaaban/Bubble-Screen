@@ -8,7 +8,8 @@ Due to a combination of sea level rise and deepening of the channels, salt intru
 
 Lab experiments where performed to investigate the propagation of the salt water body front due to the density-driven flow in a simple lock exchange experiment. Unlike a lock exchange process some salt intrusion into the river is allowed except that the salt front is blocked before the freshwater intakes. Since the effectiveness of the bubble screen is thought to also depend on it's location the bubble screen will now be located halfway the freshwater basin to investigate the effectiveness of it. So the experiments where adjusted to assess the applicability of a bubble screen on an open river to block/minimize the salt intrusion.
 
-<img src="Images/CIE5302_Bubble Screen_2 deep.mp4" width="800">
+[![]("Images/CIE5302_Bubble Screen_2 deep.mp4")]()
+
 
 A numerical model for the reference case of the simple lock exchange (without bubble screen) has been modelled with SWASH in order to understand the propagation mechanisms of salt water fronts. This will aid in the final understanding if and why a specific measure against the salt intrusion will be effective or not. The flow domain of the model has the dimensions that matches the real lock for which the experiments have been carried out (length: 90cm, water depth: 6cm). Since the vertical structure of the velocity and pressure variations is known to be of importance in this kind of flows a non-hydrostatic model has been used in which 240 layers over the vertical have been applied. The flow is initiated through a discrete baroclinic pressure gradient in which the salt water body has a salinity value of 27 ppt (density=1030 kg/m3) and the fresh water body has no salinity concentration at all (density = 1000 kg/m3).
 
