@@ -2,7 +2,7 @@
 
 This repository contains a SWASH model of a lock-exchange and the corresponding lab experiment.
 
-<img src="Images/lock000_C65_SF_t6.png" width="800">
+<img src="Images/lock000_C65_SF_t6.png" width="1000">
 
 Due to a combination of sea level rise and deepening of the channels, salt intrusion into Nieuwe Waterweg becomes a real issue, since the freshwater intake is situated somewhat upstream of Botlek harbour. One way to prevent salt (or contaminated water) intrusion into freshwater bodies is by applying the innovative bubble screen method. Recent research by Deltares (https://www.deltares.nl/en/projects/bubble-screen-separates-salt-fresh-water/) has investigated the feasibility of a bubble screen to reduce the salt intrusion during a lock exchange. Air bubbles in combination with fresh water are pumped to form a vertical current which leads to a barrier between the water bodies.
 
